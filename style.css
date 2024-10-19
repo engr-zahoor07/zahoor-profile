@@ -17,3 +17,6 @@
 .rounded-circle img{
     border-radius: 50%;
 }
+.body{
+    overflow:hidden;
+}
